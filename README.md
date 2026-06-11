@@ -3,7 +3,7 @@
 ## Student Information
 
 Name: Isaac Balogun
-
+matric no:220404222
 Course: CSC426
 
 ## Project 1: GUI Calculator
