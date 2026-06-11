@@ -1,47 +1,62 @@
-       CSC426 Login Authentication Application
+# CSC426 Practical Repository
 
-        Project Description
+## Student Information
 
-This project is a web-based Login Authentication Application developed using HTML, CSS, and JavaScript. The application provides a user-friendly login interface with authentication and input validation features.
+Name: Isaac Balogun
 
-## Features
+Course: CSC426
+
+## Project 1: GUI Calculator
+
+### Description
+
+A simple GUI-based calculator developed for performing basic arithmetic operations.
+
+ Language: Python
+GUI Framework: Tkinter
+Features:
+
+### Features
+
+* Addition (+)
+* Subtraction (-)
+* Multiplication (*)
+* Division (/)
+* Modulus (%)
+* Exponent (^)
+* Clear (C)
+
+### Files
+
+* calculator.py
+
+## Project 2: Login Authentication Application
+
+### Description
+
+A web-based login authentication system developed using HTML, CSS, and JavaScript.
+
+### Features
 
 * Username field
 * Password field
 * Login button
 * Reset button
 * Input validation
-* Success and error messages
+* Success message
+* Error message
 * Responsive user interface
 
-## Technologies Used
+### Technologies Used
 
 * HTML
 * CSS
 * JavaScript
 
-## GitHub Repository
-
-https://github.com/ibalogun03-bit/CSC426
-
-## Live Demo
+### Live Demo
 
 https://csc426-login.netlify.app
 
-## How to Use
+## GitHub Repository
 
-1. Open the deployed application.
-2. Enter a username and password.
-3. Click the Login button.
-4. If the credentials are correct, a success message is displayed.
-5. If the credentials are incorrect, an error message is displayed.
-6. Use the Reset button to clear the input fields.
-
-## Author
-
-Isaac Balogun
-Matric no:220404222
-
-## Course
-
-CSC426
+https://github.com/ibalogun03-bit/CSC426
