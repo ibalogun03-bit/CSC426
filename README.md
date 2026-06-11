@@ -60,3 +60,10 @@ https://csc426-login.netlify.app
 ## GitHub Repository
 
 https://github.com/ibalogun03-bit/CSC426
+## Screenshots
+
+### Calculator Output
+![Calculator Screenshot](add-your-image-link-here)
+
+### Login Page
+![Login Screenshot](add-your-image-link-here)
